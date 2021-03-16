@@ -3,6 +3,7 @@
 layout: col-sidebar
 title: OWASP San Diego
 tags: SD
+meetup-group: owasp-san-diego
 level: 0
 
 region: United States
