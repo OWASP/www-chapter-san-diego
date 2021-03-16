@@ -1,4 +1,4 @@
-<!--### San Diego Chapter Information
+### San Diego Chapter Information
 
 * [Become a Member](https://owasp.org/membership/)
 * [Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement)
