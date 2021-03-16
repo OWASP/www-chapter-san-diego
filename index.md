@@ -18,3 +18,6 @@ If you want to stay up to date on our schedule, please join our [Meetup](https:/
 If you're interesting in presenting at OWASP San Diego, [please submit your talk here](https://goo.gl/forms/eCbZU8Kn3mxIjxMt1)
 
 Thanks from all of us!
+
+### Check our Upcoming Meetup Events:
+{% include chapter_events.html group=page.meetup-group %}
