@@ -6,7 +6,7 @@ tags: SD
 meetup-group: Open-Web-Application-Security-Project-San-Diego-OWASP-SD
 level: 0
 
-region: United States
+region: North America
 
 ---
 
