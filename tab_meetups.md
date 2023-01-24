@@ -15,7 +15,7 @@ tags: SD
 Upcoming Events
 
 * February 2023 - [San Diego Cybersecurity Mixer](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/bcnwbsyfchbxb/)
-* March 2023 - [TBD]()
+* March 2023 - [OWASP and You](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/bcnwbsyfcdbvb/)
 * April 2023 - [Github TBD](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/bcnwbsyfcgbbc/)
 * May 2023 - [Project Spotlight - OWASP SAMM](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/bcnwbsyfcfbvb/)
 
