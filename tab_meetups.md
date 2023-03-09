@@ -14,14 +14,14 @@ tags: SD
 
 Upcoming Events
 
-* February 2023 - [San Diego Cybersecurity Mixer](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/bcnwbsyfchbxb/)
-* March 2023 - [OWASP and You](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/bcnwbsyfcdbvb/)
+* March 2023 - [Pivoting Clouds in AWS Organizations](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/bcnwbsyfcdbvb/)
 * April 2023 - [Github TBD](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/bcnwbsyfcgbbc/)
 * May 2023 - [Project Spotlight - OWASP SAMM](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/bcnwbsyfcfbvb/)
 
 
 Past Events
 
+* February 2023 - [San Diego Cybersecurity Mixer](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/bcnwbsyfchbxb/)
 * January 2023 - [Bar Social - High Dive](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/bcnwbsyfccbzb/)
 * December 2022 - [The OWASP Top 10 2022 Release](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/bcnwbsydcqbtb/)
 * July 2022 - [Hacking Healthcare: When Bits and Bytes Meet Flesh and Blood](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/bcnwbsydckbcc/)
