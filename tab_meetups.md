@@ -14,10 +14,11 @@ tags: SD
 
 Upcoming Events
 
-* July 2023 - [Wardriving 2023 by Mr. Bill](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/293458430/)
+* Sept 2023 - [Q3 San Diego Cybersecurity Mixer](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/295034295/)
 
 Past Events
 
+* July 2023 - [Wardriving 2023 by Mr. Bill](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/293458430/)
 * June 2023 - [Securing the Cloud DNS Space: New tactics for Domain Dominance in AWS](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/bcnwbsyfcjbtb/)
 * June 2023 - [Q2 San Diego Cybersecurity Mixer](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/293452416/)
 * May 2023 - [Project Spotlight - OWASP SAMM](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/bcnwbsyfcfbvb/)
