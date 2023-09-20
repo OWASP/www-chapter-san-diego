@@ -3,6 +3,7 @@
 layout: col-sidebar
 title: OWASP San Diego
 tags: SD
+country: USA
 meetup-group: Open-Web-Application-Security-Project-San-Diego-OWASP-SD
 level: 0
 
