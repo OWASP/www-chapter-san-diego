@@ -19,6 +19,8 @@ Upcoming Events
 
 Past Events
 
+* Oct 2023 - [AppSec 2.0: Reimagine AppSec with Runtime Analysis](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/295959506/)
+* Sept 2023 - [Leveraging Threat Intelligence for Adversary Emulation](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/295662091/)
 * Sept 2023 - [Q3 San Diego Cybersecurity Mixer](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/295034295/)
 * July 2023 - [Wardriving 2023 by Mr. Bill](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/293458430/)
 * June 2023 - [Securing the Cloud DNS Space: New tactics for Domain Dominance in AWS](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/bcnwbsyfcjbtb/)
