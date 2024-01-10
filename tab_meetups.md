@@ -14,11 +14,12 @@ tags: SD
 
 Upcoming Events
 
-* Dec 2023 - [Q4 San Diego Cybersecurity Mixer](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/290875930/)
-* Nov 2023 - [OWASP Global DC Highlights](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/297049321/)
+* Jan 2024 - [Cybersecurity in the Post-Quantum World](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/297366298/)
 
 Past Events
 
+* Dec 2023 - [Q4 San Diego Cybersecurity Mixer](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/290875930/)
+* Nov 2023 - [OWASP Global DC Highlights](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/297049321/)
 * Oct 2023 - [AppSec 2.0: Reimagine AppSec with Runtime Analysis](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/295959506/)
 * Sept 2023 - [Leveraging Threat Intelligence for Adversary Emulation](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/295662091/)
 * Sept 2023 - [Q3 San Diego Cybersecurity Mixer](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/295034295/)
