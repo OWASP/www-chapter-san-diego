@@ -12,11 +12,12 @@ tags: SD
 ## OWASP San Diego Chapter Meetups and Events
 
 Upcoming Events
+* May 2024 - [Security Innovation CTF](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/297366303/)
 * May 2024 - [San Diego Cybersecurity Mixer](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/300170992/)
-* April 2024 - [Fostering Effective Security Partnerships](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/297366302/)
 
 Past Events
 
+* April 2024 - [Fostering Effective Security Partnerships](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/297366302/)
 * Mar 2024 - [Attacking and Defending Medical Devices](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/297366301/)
 * Feb 2024 - [Exploring Flipper Zero](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/297366300/)
 * Feb 2024 - [San Diego Cybersecurity Mixer](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/298805667/)
