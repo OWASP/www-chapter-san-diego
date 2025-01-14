@@ -12,10 +12,17 @@ tags: SD
 ## OWASP San Diego Chapter Meetups and Events
 
 Upcoming Events
-* June 2024 - [Hacking Generative AI and Language Models with AI Red Teaming and Beyond](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/297366304/)
+* January 2025 - [Hacking Generative AI and Language Models with AI Red Teaming and Beyond](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/304584015/)
 
 Past Events
 
+* December 2024 [San Diego Cybersecurity Toy Drive & Mixer](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/301858372/)
+* November 2024 [Automated Bug Bounty Hunting with Semgrep](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/301858370/)
+* October 2024 [Annual Lockpick-A-Thon](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/301858365/)
+* September 2024 [Harnessing Data Overload: Security in the Evolving Cloud Landscape](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/303476048/)
+* September 2024 [San Diego Cybersecurity Mixer](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/302424133/)
+* July 2024 - [Reverse Engineering Android Mobile Applications to Uncover Hidden Privacy Issues](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/297366305/)
+* June 2024 - [Hacking Generative AI and Language Models with AI Red Teaming and Beyond](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/297366304/)
 * May 2024 - [Security Innovation CTF](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/297366303/)
 * May 2024 - [San Diego Cybersecurity Mixer](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/300170992/)
 * April 2024 - [Fostering Effective Security Partnerships](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/297366302/)
