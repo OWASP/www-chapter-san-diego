@@ -12,10 +12,12 @@ tags: SD
 ## OWASP San Diego Chapter Meetups and Events
 
 Upcoming Events
-* January 2025 - [Hacking Generative AI and Language Models with AI Red Teaming and Beyond](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/304584015/)
+* March 2025 - [The Friendly Adversary; Building a collaborative Red Team from the ground up!](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/304584032/)
 
 Past Events
-
+* March 2025 - [San Diego Cybersecurity Mixer](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/306225248/)
+* February 2025 - [Operational Technology and Critical Infrastructure Systems Security](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/304584020/)
+* January 2025 - [Hacking Generative AI and Language Models with AI Red Teaming and Beyond](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/304584015/)
 * December 2024 [San Diego Cybersecurity Toy Drive & Mixer](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/301858372/)
 * November 2024 [Automated Bug Bounty Hunting with Semgrep](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/301858370/)
 * October 2024 [Annual Lockpick-A-Thon](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/301858365/)
