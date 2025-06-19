@@ -12,9 +12,13 @@ tags: SD
 ## OWASP San Diego Chapter Meetups and Events
 
 Upcoming Events
-* March 2025 - [The Friendly Adversary; Building a collaborative Red Team from the ground up!](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/304584032/)
+* June 2025 - [Deep Diving Open Scope Bug Bounty Programs: Lessons from 3 Months on One Target](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/307507991/)
 
 Past Events
+* June 2025 - [Q2 San Diego Cybersecurity Mixer](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/307661288/)
+* May 2025 - [Amplifying Phishing Attacks with Generative AI](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/306807067/)
+* April 2025 - [Social Event @High Dive](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/304584042/)
+* March 2025 - [The Friendly Adversary; Building a collaborative Red Team from the ground up!](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/304584032/)
 * March 2025 - [San Diego Cybersecurity Mixer](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/306225248/)
 * February 2025 - [Operational Technology and Critical Infrastructure Systems Security](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/304584020/)
 * January 2025 - [Hacking Generative AI and Language Models with AI Red Teaming and Beyond](https://www.meetup.com/open-web-application-security-project-san-diego-owasp-sd/events/304584015/)
